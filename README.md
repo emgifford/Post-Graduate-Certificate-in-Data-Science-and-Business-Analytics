@@ -1,5 +1,6 @@
 # Post-Graduate-Certificate-in-Data-Science-and-Business-Analytics
 Projects in the University of Austin's Post Graduate Certificate in Data Science and Business Analytics
+
 Project #7 Trade & Ahead
 Course: Unsupervised Learning
 •	Analyzed the stocks data and grouped the stocks based on the attributes provided

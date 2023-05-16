@@ -1,6 +1,7 @@
 # Post-Graduate-Certificate-in-Data-Science-and-Business-Analytics
 Projects in the University of Austin's Post Graduate Certificate in Data Science and Business Analytics
 
+
 Project #7 Trade & Ahead
 
 Course: Unsupervised Learning
@@ -10,6 +11,7 @@ Course: Unsupervised Learning
 •	Shared insights about the characteristics of each group
 
 •	Tools/skills: EDA, K-Means Clustering, Hierarchical Clustering, Cluster Profiling 
+
 
 Project #6  ReneWind
 
@@ -21,6 +23,7 @@ Course: Model Tuning
 
 •	Tools/skills: Up and Down Sampling, Regularization, Hyperparameter Tuning
 
+
 Project #5 EasyVisa
 
 Course: Ensemble Techniques
@@ -30,6 +33,7 @@ Course: Ensemble Techniques
 •	Based on important factors that significantly influenced the Visa status, recommended a suitable profile for the applicants for whom the visa should be certified or denied
 
 •	Tools/skills: EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost), Gradient Boosting, XGBoost, Stacking Classifer, Hyperparameter Tuning using GridSearchCV, Business Insights 
+
 
 Project #4 INN Hotels 
 
@@ -43,6 +47,7 @@ Course: Supervised Learning - Classification
 
 •	Tools/skills: EDA, Data Pre-processing, Logistic Regression, Multicollinearity, Decision Trees, Pruning
 
+
 Project #3 ReCell  
 
 Course: Supervised Learning - Foundations
@@ -50,6 +55,7 @@ Course: Supervised Learning - Foundations
 •	Analyzed dataset and built a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identified factors that significantly influenced the price 
 
 •	Tools/skills: EDA, Linear Regression, Linear Regression Assumptions, Business Insights and Recommendations 
+
 
 Project #2 E-news Express Project
 
@@ -59,6 +65,7 @@ Course: Business Statistics
 
 •	Tools/skills: Hypothesis Testing, a/b Testing, Data Visualization, Statistical Inference 
 
+
 Project #1 FoodHub Order Analysis using Python
 
 Course: Python - Foundations
@@ -66,4 +73,4 @@ Course: Python - Foundations
 •	Analyzed the data to draw some actionable insights for the business to include recommendations to improve ratings and ordering delivery timing
 
 •	Tools/skills: Exploratory Data Analysis (EDA), Univariate Analysis, Bivariate Analysis, Python 
-![image](https://github.com/emgifford/Post-Graduate-Certificate-in-Data-Science-and-Business-Analytics/assets/133807120/0f5d53e5-1e40-49e1-8b57-3dc889eeb9c0)
+
